@@ -3,8 +3,13 @@ The goal of this project was to use supervised learning classification technique
 The outcome of this project showed that personal applicant features such as country of citizenship, state of residency, visa used to enter the US on didn't no influence the outcome. However, it was difficult to suggest improvements to the applications themselves as the most influential features were not easily altered. 
 
 **Tools:**   
-Python (pandas, matplotlib, sklearn)   
-Classification Models (Logistic Regression, Decision Trees, Random Forest, XGBoost, Naive Bayes) . 
+- Python (pandas, matplotlib, sklearn)   
+- Classification Models (Logistic Regression, Decision Trees, Random Forest, XGBoost, Naive Bayes) .
+
+**Repository Includes:** 
+- Jupyter Notebook containing full project process
+- Modules containing functions for process  
+- Final presentation PDF
 
 The blog post for this project is currently a work in progress - but please feel free to check out my other projects on my blog [here](https://medium.com/@laurenlhoward14)
 
